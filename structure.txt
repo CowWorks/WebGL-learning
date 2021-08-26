@@ -1,0 +1,4 @@
+[]Write a renderer wrapper
+    []class which wraps the renderer
+        []constructor which contains the rendering function
+            []the function should be something other than main
